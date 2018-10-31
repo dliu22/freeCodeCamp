@@ -2,15 +2,15 @@
 title: What is Minecraft Forge?
 ---
 
-If you are reading this article you probably already know Minecraft. We use Forge to manipulate the game Minecraft to make it do what we want. This could be anything, ranging from new cool creatures to entire new systems in the game. 
+If you are reading this article you probably already know Minecraft. We use Forge to manipulate the game Minecraft to make it do what we want. This could be anything ranging from new cool creatures to entire new systems in the game. 
 
 Forge is a modding api. Minecraft Forge (or Forge for short) is a layer between our code and Minecraft itself. We cannot directly ask Minecraft to add items and do special cool things. That's why we need an API (application programming interface) to handle our logic and make Minecraft recognise it.
 
 ## Sounds cool! How do I get started?
 
 * You'll need the JDK (Java development kit) which is a set of libraries, tools and the runtime environment to make Java programs and run them.
-* A Minecraft account which can be bought from their official website. (https://minecraft.net/en-us/store/)
-* An IDE (Eclipe or IntelliJ are recommended for Minecraft development)
+* A Minecraft account that can be bought from their official website. (https://minecraft.net/en-us/store/)
+* An IDE (integrated development environment) (Eclipe or IntelliJ are recommended for Minecraft development)
 
 After installing/acquiring these pieces of software, download your desired Forge version at https://files.minecraftforge.net/ (*TIP:* Hover over the information button and press direct download to avoid an Adfly virus!)
 Once you have downloaded this ZIP you'll be able to unzip it. Do so and cd (cmd command) into the directory with all of the Forge files. 
